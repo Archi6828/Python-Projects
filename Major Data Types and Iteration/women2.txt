@@ -1,0 +1,10 @@
+ada;benn;fred;jim;gus;ira;alan;dave;eli;chad;hugh
+bet;benn;alan;chad;fred;gus;dave;ira;eli;jim;hugh
+cara;fred;benn;eli;gus;hugh;chad;ira;alan;dave;jim
+dawn;fred;jim;chad;alan;ira;hugh;gus;dave;benn;eli
+eva;jim;hugh;fred;dave;alan;gus;chad;eli;ira;benn
+fran;benn;alan;eli;ira;jim;dave;fred;gus;chad;hugh
+gina;jim;gus;hugh;fred;benn;alan;chad;eli;dave;ira
+hana;gus;jim;benn;alan;ira;dave;hugh;eli;chad;fred
+iris;ira;chad;hugh;gus;fred;benn;alan;eli;jim;dave
+june;eli;hugh;gus;alan;benn;jim;chad;ira;fred;dave
